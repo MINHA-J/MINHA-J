@@ -8,7 +8,7 @@
 </a>
 
 </br></br>
-### :bowtie: About Me
+## :bowtie: About Me
 -----
 Welcome to my page! </br>
 My name is Minha Jeon, a junior developer currently pursuing my studies at the Software Convergence Department of Kyung Hee University. </br>
@@ -21,7 +21,7 @@ This is the space where you can explore my development achievements and projects
 
 </br>
 
-### 👊 Activity 
+## 👊 Activity 
 ---------------
 | ❔ | Content | Period |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ This is the space where you can explore my development achievements and projects
 
 </br>
 
-### ⏰ Updates
+## ⏰ Updates
 
 I continuously update Github to record new projects and development activities. </br>
 Thank you for visiting this space, where I share my journey as a developer, growing and evolving together!</br>
