@@ -8,9 +8,11 @@
 </a>
 
 </br></br>
-## :bowtie: About Me
------
-Welcome to my page! </br>
+
+# :bowtie: About Me 
+  
+Welcome to my page!
+  
 My name is Minha Jeon, a junior developer currently pursuing my studies at the Software Convergence Department of Kyung Hee University. </br>
 I am constantly exploring and pursuing my dreams with an unwavering passion for software.</br>
 </br>
@@ -19,10 +21,11 @@ This is the space where you can explore my development achievements and projects
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINHA-J&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MINHA-J&layout=compact)
 
-</br>
+</br></br>
 
-## 👊 Activity 
----------------
+# 👊 Activity 
+
+
 | ❔ | Content | Period |
 | --- | --- | --- |
 | 📚 | 서울대학교 기반 메타버스 연합 학회 <XREAL> | 2023.03 -  |
@@ -30,7 +33,7 @@ This is the space where you can explore my development achievements and projects
 | 🥇 | 2022 경희대학교 SW 페스티벌 대상 | 2022.11 |
 | 🥈 | 2022 동아리 단합 공모전 우수상 | 2022.08 |
 
-</br>
+</br></br>
 
 ## ⏰ Updates
 
